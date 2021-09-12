@@ -16,7 +16,7 @@ def getFirstDir(path):
         return list
 
 
-# 读取 manifest.json 获取插件的名称、描述、中文描述、文件夹（带版本号）、项目地址
+# 读取 manifest.json 获取插件的名称、描述、中文描述、项目地址
 def getPluginInf(path):
     list = getFirstDir(path)
     str = ''
