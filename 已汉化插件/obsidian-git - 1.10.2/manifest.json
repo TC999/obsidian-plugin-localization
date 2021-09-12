@@ -1,0 +1,9 @@
+{
+    "id": "obsidian-git",
+    "name": "Git 备份",
+    "description": "用git备份你的知识库。",
+    "isDesktopOnly": true,
+    "js": "main.js",
+    "authorUrl": "https://github.com/denolehov/obsidian-git",
+    "version": "1.10.2"
+}

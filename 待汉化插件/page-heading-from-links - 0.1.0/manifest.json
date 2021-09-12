@@ -1,0 +1,10 @@
+{
+  "id": "page-heading-from-links",
+  "name": "Page Heading From Links",
+  "description": "Inserts a heading into blank pages from the filename",
+  "isDesktopOnly": false,
+  "minAppVersion": "0.10.2",
+  "version": "0.1.0",
+  "authorUrl": "https://github.com/beet/page-headings-obsidian-plugin",
+  "js": "main.js"
+}

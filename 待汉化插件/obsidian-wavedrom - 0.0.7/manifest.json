@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-wavedrom",
+  "name": "WaveDrom",
+  "version": "0.0.7",
+  "description": "This is very rough and quick integration of WaveDrom into obsidian",
+  "author": "Alex Stewart",
+  "authorUrl": "https://github.com/kingsquirrel152/obsidian-wavedrom",
+  "isDesktopOnly": true
+}

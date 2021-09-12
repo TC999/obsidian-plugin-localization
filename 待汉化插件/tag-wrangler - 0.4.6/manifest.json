@@ -1,0 +1,9 @@
+{
+  "id": "tag-wrangler",
+  "name": "Tag Wrangler",
+  "version": "0.4.6",
+  "minAppVersion": "0.12.5",
+  "description": "Rename, merge, toggle, and search tags from the tag pane",
+  "authorUrl": "https://github.com/pjeby/tag-wrangler",
+  "isDesktopOnly": true
+}

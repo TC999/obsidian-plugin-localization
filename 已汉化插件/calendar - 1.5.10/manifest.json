@@ -1,0 +1,10 @@
+{
+  "id": "calendar",
+  "name": "日历",
+  "description": "日历视图，您的每日笔记",
+  "version": "1.5.10",
+  "author": "Liam Cain",
+  "authorUrl": "https://github.com/liamcain/",
+  "isDesktopOnly": false,
+  "minAppVersion": "0.9.11"
+}

@@ -1,0 +1,23 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "",
+    "template": "Z-Template/DailyNotes_template.md",
+    "folder": "-CalendarNotes/DailyNotes",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "Z-Template/WeekNotes_template.md",
+    "folder": "-CalendarNotes/WeekNotes",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "Z-Template/MonthlyNotes_template.md",
+    "folder": "-CalendarNotes/MonthlyNotes",
+    "enabled": true
+  }
+}

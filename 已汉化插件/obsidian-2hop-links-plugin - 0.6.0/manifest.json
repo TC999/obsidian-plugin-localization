@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-2hop-links-plugin",
+  "name": "双向跳转链接",
+  "version": "0.6.0",
+  "minAppVersion": "0.9.12",
+  "description": "在编辑器的底部添加到其他页面的链接",
+  "author": "Tokuhiro Matsuno",
+  "authorUrl": "https://github.com/tokuhirom/",
+  "isDesktopOnly": false
+}

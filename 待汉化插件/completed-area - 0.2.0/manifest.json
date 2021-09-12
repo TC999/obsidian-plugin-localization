@@ -1,0 +1,10 @@
+{
+  "id": "completed-area",
+  "name": "Completed Area",
+  "version": "0.2.0",
+  "description": "Move completed to-do items to a seperate completed area.",
+  "author": "Daha",
+  "js": "main.js",
+  "authorUrl": "https://github.com/DahaWong/obsidian-completed-area",
+  "isDesktopOnly": false
+}

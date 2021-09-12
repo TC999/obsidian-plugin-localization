@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-image-uploader",
+  "name": "Image Uploader",
+  "description": "This plugin uploads the image in your clipboard to any image hosting automatically when pasting.",
+  "author": "Creling",
+  "isDesktopOnly": true,
+  "minAppVersion": "0.11.0",
+  "authorUrl": "https://github.com/Creling/obsidian-image-uploader",
+  "version": "0.1.1"
+}

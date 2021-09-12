@@ -1,0 +1,9 @@
+{
+  "id": "mrj-crosslink-between-notes",
+  "name": "添加指向当前笔记的链接",
+  "version": "0.0.9",
+  "description": "此插件添加了一个命令，允许在所选笔记的底部添加指向当前笔记的链接",
+  "author": "MrJackphil",
+  "authorUrl": "https://mrjackphil.com",
+  "isDesktopOnly": false
+}

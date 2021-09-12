@@ -1,0 +1,11 @@
+{
+  "id": "python-lab-plugin",
+  "name": "Python lab",
+  "version": "0.2.5",
+  "minAppVersion": "0.11.6",
+  "description": "An interface to experiment with python scripts and more.",
+  "author": "Cristian Vasquez",
+  "isDesktopOnly": false,
+  "authorUrl": "https://github.com/cristianvasquez/obsidian-lab",
+  "repo":"cristianvasquez/obsidian-lab"
+}

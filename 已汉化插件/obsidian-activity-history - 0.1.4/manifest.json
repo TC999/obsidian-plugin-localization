@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-activity-history",
+    "name": "活动历史记录",
+    "version": "0.1.4",
+    "minAppVersion": "0.10.11",
+    "description": "跟踪指定项目的活动，类似Github的活动板",
+    "author": "darakah",
+    "authorUrl": "https://github.com/Darakah/",
+    "isDesktopOnly": false
+}

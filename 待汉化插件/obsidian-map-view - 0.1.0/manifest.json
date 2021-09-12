@@ -1,0 +1,9 @@
+{
+	"id": "obsidian-map-view",
+	"name": "Map View",
+	"version": "0.1.0",
+	"minAppVersion": "0.12.10",
+	"description": "An interactive map view.",
+	"authorUrl": "https://github.com/esm7/obsidian-map-view",
+	"isDesktopOnly": false
+}

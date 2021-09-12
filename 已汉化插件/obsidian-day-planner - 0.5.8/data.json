@@ -1,0 +1,16 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 0,
+  "mermaid": true,
+  "notesToDates": [
+    {
+      "notePath": "Day Planners/Day Planner-20210911.md",
+      "date": "Sat Sep 11 2021"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "timelineZoomLevel": 4
+}

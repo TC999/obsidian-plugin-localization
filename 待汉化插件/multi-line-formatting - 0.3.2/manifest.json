@@ -1,0 +1,10 @@
+{
+  "id": "multi-line-formatting",
+  "name": "Multi-line Formatting",
+  "description": "Apply formatting to selected text, dealing with the paragraph breaks.",
+  "isDesktopOnly": false,
+  "js": "main.js",
+  "version": "0.3.2",
+  "authorUrl": "https://github.com/nmady/obsidian-multi-line-formatting",
+  "minAppVersion": "0.12.0"
+}

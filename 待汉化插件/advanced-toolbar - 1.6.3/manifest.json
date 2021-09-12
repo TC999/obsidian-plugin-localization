@@ -1,0 +1,10 @@
+{
+	"id": "advanced-toolbar",
+	"name": "先进的移动工具栏",
+	"version": "1.6.3",
+	"minAppVersion": "0.12.0",
+	"description": "增强黑曜石移动工具栏。",
+	"author": "phibr0",
+	"authorUrl": "https://github.com/phibr0",
+	"isDesktopOnly": false
+}

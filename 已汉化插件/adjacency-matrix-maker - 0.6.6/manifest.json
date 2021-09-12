@@ -1,0 +1,10 @@
+{
+	"id": "adjacency-matrix-maker",
+	"name": "邻接矩阵生成器",
+	"version": "0.6.6",
+	"minAppVersion": "0.12.5",
+	"description": "创建保管库邻接矩阵的交互式图像",
+	"author": "SkepticMystic",
+	"authorUrl": "https://github.com/SkepticMystic/adjacency-matrix-maker",
+	"isDesktopOnly": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "periodic-notes",
+  "name": "每日笔记",
+  "description": "创建/管理你的每日、每周和每月的笔记",
+  "version": "0.0.16",
+  "author": "Liam Cain",
+  "authorUrl": "https://github.com/liamcain/",
+  "isDesktopOnly": false,
+  "minAppVersion": "0.10.11"
+}

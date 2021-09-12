@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-activity-logger",
+  "name": "活动记录器",
+  "description": "记录您的活动，例如创建笔记、修改笔记、删除笔记等。",
+  "author": "Creling",
+  "minAppVersion": "0.9.12",
+  "version": "0.1.0",
+  "authorUrl": "https://github.com/Creling/obsidian-activity-logger",
+  "isDesktopOnly": true
+}

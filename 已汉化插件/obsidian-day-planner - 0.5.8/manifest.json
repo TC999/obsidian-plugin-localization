@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-day-planner",
+  "name": "每日计划",
+  "version": "0.5.8",
+  "description": "一个插件，帮助你计划你的一天和设置番茄定时器",
+  "isDesktopOnly": false,
+  "js": "main.js",
+  "authorUrl": "https://github.com/lynchjames/obsidian-day-planner",
+  "css": "style.css"
+}

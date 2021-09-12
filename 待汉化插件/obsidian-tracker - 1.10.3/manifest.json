@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-tracker",
+	"name": "Tracker",
+	"version": "1.10.3",
+	"minAppVersion": "0.9.12",
+	"description": "A plugin tracks occurrences and numbers in your notes",
+	"author": "pyrochlore",
+	"authorUrl": "https://github.com/pyrochlore/obsidian-tracker",
+	"isDesktopOnly": false
+}

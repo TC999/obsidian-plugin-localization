@@ -1,0 +1,9 @@
+{
+  "id": "url-into-selection",
+  "name": "Paste URL into selection",
+  "description": "Paste URL \"into\" selected text.",
+  "isDesktopOnly": false,
+  "js": "main.js",
+  "authorUrl": "https://github.com/denolehov/obsidian-url-into-selection",
+  "version": "1.6.0"
+}
